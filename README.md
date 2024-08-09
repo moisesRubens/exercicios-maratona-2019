@@ -1,2 +1,2 @@
-# exercicios-maratona-2019
-Este repositório é destinado à ajudar a desenvolver suas habilidades de programação
+# simulados-maratona-programacao
+Este repositório é destinado ao desenvolvimento de habilidades de programação
